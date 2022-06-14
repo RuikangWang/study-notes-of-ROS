@@ -10,7 +10,9 @@
 ```
 sudo apt install gnome-tweaks
 ```
-## 1.3 安装terminator  
+## 1.3 显示和关闭显示隐藏文件  
+ctrl+H 显示隐藏文件，再次ctrl+H 关闭显示隐藏文件  
+## 1.4 安装terminator  
 比原生命令行工具更好用，功能更多。使用下面的命令安装  
 ```
 sudo apt install terminator
@@ -19,7 +21,7 @@ sudo apt install terminator
 ```
 sudo apt remove terminator
 ```
-## 1.4 安装VScode  
+## 1.5 安装VScode  
 功能强大的IDE，从官网下载，选择.deb X64版本（在ubuntu中使用）在虚拟机中安装。  
 然后安装扩展包，包括c++，python和ros。  
 
