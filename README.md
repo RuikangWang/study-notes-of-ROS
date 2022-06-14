@@ -10,5 +10,15 @@
 ```
 sudo apt install gnome-tweaks
 ```
+## 1.3 安装terminator  
+比原生命令行工具更好用，功能更多。使用下面的命令安装  
+```
+sudo apt install terminator
+```  
+卸载使用下面的命令：
+```
+sudo apt remove terminator
+```
 # 2. ROS
 ## 2.1 配置 
+
