@@ -19,6 +19,10 @@ sudo apt install terminator
 ```
 sudo apt remove terminator
 ```
+## 1.4 安装VScode  
+功能强大的IDE，从官网下载，选择.deb X64版本（在ubuntu中使用）在虚拟机中安装。  
+然后安装扩展包，包括c++，python和ros。  
+
 # 2. ROS
 ## 2.1 配置 
 
