@@ -26,6 +26,10 @@ sudo apt remove terminator
 然后安装扩展包，包括c++，python和ros。  
 
 # 2. ROS
+## 2.0 VScode 快捷键  
+ctrl + shift + B 编译  
+ctrl + shift + ~ （~就是ESC下面的符号按键）调用控制台  
+
 ## 2.1 VScode 配置  
 ###2.1.1 创建ROS工作空间  
 ```
@@ -110,3 +114,6 @@ source ./devel/setup.bash
 ```
 rosrun hello_vscode hello_vscode_c
 ```
+## 2.2 launch文件启动多个节点  
+新添加内容到launch文件后，必须先保存再执行，否则不会执行新的内容。  
+
